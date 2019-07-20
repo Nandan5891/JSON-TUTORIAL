@@ -21,6 +21,8 @@ dependencies {
     compile group: 'com.github.wnameless', name: 'json-flattener', version: '0.6.0'
     compile group: 'com.github.wnameless', name: 'json-flattener', version: '0.6.0'
     compile group: 'com.github.wnameless', name: 'jpa-type-flattenedjson', version: '0.2.0'
+    testCompile group: 'io.rest-assured', name: 'rest-assured', version: '4.0.0'
+
 
 
 
