@@ -1,0 +1,15 @@
+{
+  "Name": "crunchify.com",
+  "Author": "App Shah",
+  "Address": "New York",
+  "Company Services": [{
+    "Service": "Site SEO Review",
+    "Link": "https://pro.crunchify.com/#seo"
+  }, {
+    "Service": "Full Website Design Service",
+    "Link": "https://pro.crunchify.com/#full-design"
+  }, {
+    "Service": "WordPress Optimization & Consultation",
+    "Link": "https://pro.crunchify.com/#consultant"
+  }]
+}

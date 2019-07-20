@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+group 'Assignment'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: '4.0.0-alpha-2'
+    testCompile group: 'org.testng', name: 'testng', version: '6.14.3'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+    compile group: 'com.konghq', name: 'unirest-objectmapper-jackson', version: '2.3.10'
+    compile group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'
+    compile group: 'com.github.wnameless', name: 'json-flattener', version: '0.6.0'
+    compile group: 'com.github.wnameless', name: 'json-flattener', version: '0.6.0'
+    compile group: 'com.github.wnameless', name: 'jpa-type-flattenedjson', version: '0.2.0'
+
+
+
+}
