@@ -1,4 +1,4 @@
-package restassuredfile;
+package REST_ASSURED_DATA;
 
 import io.restassured.RestAssured;
 import io.restassured.http.Method;

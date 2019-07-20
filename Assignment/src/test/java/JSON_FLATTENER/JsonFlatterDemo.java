@@ -1,4 +1,4 @@
-package jsonFlattener;
+package JSON_FLATTENER;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.wnameless.json.flattener.JsonFlattener;

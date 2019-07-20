@@ -1,4 +1,4 @@
-package JsonReadWrite;
+package JSON_READ_WRITE;
 
 import org.json.simple.parser.JSONParser;
 import utility.Utility;

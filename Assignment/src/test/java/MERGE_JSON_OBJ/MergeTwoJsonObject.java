@@ -1,4 +1,4 @@
-package mergeJsonObject;
+package MERGE_JSON_OBJ;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

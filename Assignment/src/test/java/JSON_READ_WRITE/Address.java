@@ -1,4 +1,4 @@
-package JsonReadWrite;
+package JSON_READ_WRITE;
 
 public class Address {
     private String village;

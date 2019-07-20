@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "summary": "This is first json Object",
+      "averageRating": 4.555555555555555,
+      "stock": {
+        "stockLevelStatus": {
+          "code": "inStock",
+          "codeLowerCase": "instock"
+        }
+      },
+
+      "images": [
+        {
+          "imageType": "PRIMARY",
+          "format": "thumbnail",
+          "url": "www.example.com"
+        },
+        {
+          "imageType": "PRIMARY",
+          "format": "product",
+          "url": "www.image.com"
+        }
+      ]
+    }
+  ]
+}
